@@ -354,5 +354,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby
       objectReference: {fileID: 0}
+    - target: {fileID: 4435400093265567363, guid: 8cfa40980d33c1144847cde4293299d6, type: 3}
+      propertyPath: m_Size.x
+      value: 0.40614474
+      objectReference: {fileID: 0}
+    - target: {fileID: 4435400093265567363, guid: 8cfa40980d33c1144847cde4293299d6, type: 3}
+      propertyPath: m_Size.y
+      value: 0.3090498
+      objectReference: {fileID: 0}
+    - target: {fileID: 4435400093265567363, guid: 8cfa40980d33c1144847cde4293299d6, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0053941607
+      objectReference: {fileID: 0}
+    - target: {fileID: 4435400093265567363, guid: 8cfa40980d33c1144847cde4293299d6, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.1545249
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cfa40980d33c1144847cde4293299d6, type: 3}
